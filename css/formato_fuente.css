@@ -1,1 +1,17 @@
 
+body{
+  background-color:orange;
+}
+h1{
+  font-family:"Comic Sans MS", cursive;
+
+}
+p{
+  font-family:Calibri,sans-serif;
+  font-size: 1.5em;
+ 
+}
+h1,p{
+  text-align:center;
+}
+  
